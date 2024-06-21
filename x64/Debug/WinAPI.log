@@ -1,0 +1,25 @@
+﻿  Solar.c
+  WinAPI.c
+C:\Users\Александр\source\repos\WinAPI\WinAPI\WinAPI.c(33,44): warning C4047: функция: "UINT" отличается по уровням косвенного обращения от "void *"
+C:\Users\Александр\source\repos\WinAPI\WinAPI\WinAPI.c(33,44): warning C4024: GetMessageW: различные типы для формального и фактического параметров 3
+C:\Users\Александр\source\repos\WinAPI\WinAPI\WinAPI.c(33,50): warning C4047: функция: "UINT" отличается по уровням косвенного обращения от "void *"
+C:\Users\Александр\source\repos\WinAPI\WinAPI\WinAPI.c(33,50): warning C4024: GetMessageW: различные типы для формального и фактического параметров 4
+C:\Users\Александр\source\repos\WinAPI\WinAPI\WinAPI.c(63,25): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Александр\source\repos\WinAPI\WinAPI\WinAPI.c(64,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Александр\source\repos\WinAPI\WinAPI\WinAPI.c(65,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Александр\source\repos\WinAPI\WinAPI\WinAPI.c(67,25): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Александр\source\repos\WinAPI\WinAPI\WinAPI.c(68,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Александр\source\repos\WinAPI\WinAPI\WinAPI.c(69,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Александр\source\repos\WinAPI\WinAPI\WinAPI.c(71,25): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Александр\source\repos\WinAPI\WinAPI\WinAPI.c(72,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Александр\source\repos\WinAPI\WinAPI\WinAPI.c(73,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Александр\source\repos\WinAPI\WinAPI\WinAPI.c(94,26): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\source\repos\WinAPI\WinAPI\WinAPI.c(95,23): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\source\repos\WinAPI\WinAPI\WinAPI.c(98,24): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\source\repos\WinAPI\WinAPI\WinAPI.c(99,21): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\source\repos\WinAPI\WinAPI\WinAPI.c(102,24): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
+C:\Users\Александр\source\repos\WinAPI\WinAPI\WinAPI.c(103,21): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
+  WindowsClass.c
+  Создание кода...
+C:\Users\Александр\source\repos\WinAPI\WinAPI\WinAPI.c(120): warning C4715: SoftWareProcedure: значение возвращается не при всех путях выполнения
+  WinAPI.vcxproj -> C:\Users\Александр\source\repos\WinAPI\x64\Debug\WinAPI.exe
